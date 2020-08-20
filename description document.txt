@@ -1,0 +1,20 @@
+boilerplate 만들기
+
+1. nodejs 와 express js 다운로드
+
+nodejs 다운 
+노드가 다운되어 있는가 node -v
+and 없으면 설치하기
+
+npm init 으로 npm package  만들기
+
+package.json 생성
+
+index.js 만들어 백엔드 시작점으로 하기
+
+express.js 다운
+npm express
+
+node_module 다운받은 dependencies 들은 이폴더 에서 관리
+
+index.js에 기본적인 express 앱 만들기
